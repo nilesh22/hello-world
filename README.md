@@ -2,4 +2,5 @@
 to learn about git hub
 hii..
 my name is nilesh katkar
-& i m here to learn about git.
+ajay katkar is name of my father.
+aparna katkar is name of my mother
